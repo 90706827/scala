@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="actor" />
+        <module name="netty" />
         <module name="scala" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="actor" target="1.8" />
+      <module name="netty" target="1.8" />
       <module name="scala" target="1.8" />
     </bytecodeTargetLevel>
   </component>
