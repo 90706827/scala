@@ -2,9 +2,51 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/actor/Actor_Messages.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/actor/Hello_Actor.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/basics/RegExpressOps.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/bestpractice/Assinment_Internals.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/bestpractice/Extractor_Advanced.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/bestpractice/For_Advanced.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/bestpractice/Singleton_Type.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/bestpractice/Type_Advanced.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/dataset/MergedSort.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/forexpression/ForInAction.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/forexpression/For_Advanced.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/forexpression/For_Expressive.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/forexpression/For_Query.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/gui/Hello_GUI.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Context_Bounds_Internals.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Evidence.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Hello_Implicit_Conversions.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Implicit_Conversions_with_Implicit_Parameters.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Implicit_Parameters.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Implicits_Class.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/implicits/Implicits_Object.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/list/ListBuffer_Internals.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/list/List_Constructor_Internals.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/list/List_Thinking.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/oop/PackageOps.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/oop/UseTrait.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Abstract_Types.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Compound_Type.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Context_Bounds.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Dependency_Injection.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Hello_Type_Parameterization.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Infix_Types.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Manifest_ClassTag.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Multiple_Bounds.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Path_Dependence.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Self_Types.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Singleton_Types.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Structural__Type.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Type_Contraints.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Typy_Variables_Bounds.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Variance.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/Variant_Positions.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/scala/com/jangni/dt/scala/type_parameterization/View_Bounds.scala" charset="GBK" />
     <file url="file://$PROJECT_DIR$/kafka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/kafka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/netty" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/socket" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
