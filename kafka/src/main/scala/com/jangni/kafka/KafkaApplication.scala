@@ -1,17 +1,16 @@
 package com.jangni.kafka
 
-import org.springframework.boot.{SpringApplication, SpringBootConfiguration}
+import org.springframework.boot.SpringApplication
 
 /**
-  * Author ZhangGuoQiang
-  * Date: 2018/7/25/025
-  * Time: 16:36
-  * Description:
-  */
-@SpringBootConfiguration
+  * @program: scala
+  * @description: ${description}
+  * @author: Mr.Jangni
+  * @create: 2018-09-08 21:28
+  **/
 class KafkaApplication {
 
 }
-object KafkaApplication extends App{
+object KafkaApplication extends App {
   SpringApplication.run(classOf[KafkaApplication],args:_*)
 }

@@ -10,6 +10,7 @@
         <module name="kafka" />
         <module name="netty" />
         <module name="scala" />
+        <module name="socket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="kafka" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="scala" target="1.8" />
+      <module name="socket" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
