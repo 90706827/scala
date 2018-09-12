@@ -1,8 +1,8 @@
 package com.jangni.socket.netty.longconnect
 
 import akka.actor.{ActorRef, ActorSystem, Props}
-import com.jangni.netty.longconnect.client.SocketClient
-import com.jangni.netty.longconnect.server.SocketServer
+import com.jangni.socket.netty.longconnect.client.SocketClient
+import com.jangni.socket.netty.longconnect.server.SocketServer
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.context.annotation.Bean

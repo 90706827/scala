@@ -8,7 +8,6 @@ import akka.actor.Status.Failure
 import akka.actor.{Actor, ActorRef, Props}
 import akka.pattern.ask
 import akka.util.Timeout
-import com.jangni.socket.scala.BizExecutionContext.global
 import io.netty.bootstrap.Bootstrap
 import io.netty.channel._
 import io.netty.channel.nio.NioEventLoopGroup
@@ -18,7 +17,7 @@ import io.netty.handler.codec.{LengthFieldBasedFrameDecoder, LengthFieldPrepende
 import io.netty.handler.logging.{LogLevel, LoggingHandler}
 import io.netty.handler.timeout.{ReadTimeoutException, ReadTimeoutHandler}
 import org.slf4j.{Logger, LoggerFactory}
-
+import com.jangni.socket.frame.BizExecutionContext.global
 import scala.collection.mutable
 import scala.concurrent.Future
 import scala.concurrent.duration._

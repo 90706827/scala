@@ -1,6 +1,6 @@
 package com.jangni.socket.netty.longconnect
 
-import com.jangni.netty.longconnect.client.SocketClient
+import com.jangni.socket.netty.longconnect.client.SocketClient
 import org.springframework.scheduling.annotation.Scheduled
 import org.springframework.stereotype.Component
 

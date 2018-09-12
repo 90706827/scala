@@ -1,6 +1,6 @@
 package com.jangni.socket.frame
 
-import com.jangni.socket.scala.BizExecutionContext.global
+import com.jangni.socket.frame.BizExecutionContext.global
 import io.netty.channel.{ChannelHandlerContext, SimpleChannelInboundHandler}
 import io.netty.handler.codec.TooLongFrameException
 import io.netty.handler.timeout.ReadTimeoutException
