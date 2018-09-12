@@ -1,4 +1,4 @@
-package com.jangni.netty.longconnect
+package com.jangni.socket.netty.longconnect
 
 import akka.actor.{ActorRef, ActorSystem, Props}
 import com.jangni.netty.longconnect.client.SocketClient

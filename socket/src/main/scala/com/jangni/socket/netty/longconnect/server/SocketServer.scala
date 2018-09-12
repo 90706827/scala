@@ -1,4 +1,4 @@
-package com.jangni.netty.longconnect.server
+package com.jangni.socket.netty.longconnect.server
 
 import java.nio.ByteOrder
 

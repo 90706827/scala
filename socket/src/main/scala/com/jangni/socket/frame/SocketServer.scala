@@ -1,5 +1,4 @@
-package com.jangni.socket.scala
-
+package com.jangni.socket.frame
 
 import java.nio.ByteOrder
 

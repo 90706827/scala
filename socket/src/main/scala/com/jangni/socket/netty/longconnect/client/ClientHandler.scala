@@ -1,4 +1,4 @@
-package com.jangni.netty.longconnect.client
+package com.jangni.socket.netty.longconnect.client
 
 import io.netty.channel.{ChannelFutureListener, ChannelHandlerContext, SimpleChannelInboundHandler}
 import io.netty.handler.codec.TooLongFrameException

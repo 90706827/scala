@@ -1,4 +1,4 @@
-package com.jangni.netty.longconnect
+package com.jangni.socket.netty.longconnect
 
 import akka.actor.Actor
 import org.slf4j.{Logger, LoggerFactory}

@@ -1,4 +1,4 @@
-package com.jangni.netty.longconnect.client
+package com.jangni.socket.netty.longconnect.client
 
 /**
   * @program: scala

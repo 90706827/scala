@@ -1,5 +1,4 @@
-package com.jangni.socket.scala
-
+package com.jangni.socket.frame
 
 import com.jangni.socket.scala.BizExecutionContext.global
 import io.netty.channel.{ChannelHandlerContext, SimpleChannelInboundHandler}

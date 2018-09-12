@@ -1,4 +1,4 @@
-package com.jangni.socket.scala
+package com.jangni.socket.frame
 
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor
 

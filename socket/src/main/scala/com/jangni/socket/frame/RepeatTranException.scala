@@ -1,4 +1,4 @@
-package com.jangni.socket.scala
+package com.jangni.socket.frame
 
 class RepeatTranException(msg:String) extends Exception(msg){
 

@@ -1,4 +1,4 @@
-package com.jangni.netty.longconnect
+package com.jangni.socket.netty.longconnect
 
 import com.jangni.netty.longconnect.client.SocketClient
 import org.springframework.scheduling.annotation.Scheduled

@@ -1,4 +1,4 @@
-package com.jangni.socket.scala
+package com.jangni.socket.frame
 
 import io.netty.channel.ChannelHandlerContext
 
